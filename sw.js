@@ -1,10 +1,9 @@
-const CACHE_NAME = 'diario-roxo-v1';
+const CACHE_NAME = 'diario-roxo-v3'; // Versão nova para limpar o cache antigo
 const urlsToCache = [
   '/',
   '/index.html',
   '/manifest.json',
-  'https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;700&display=swap',
-  'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css'
+  '/favicon.ico'
 ];
 
 self.addEventListener('install', function(event) {
