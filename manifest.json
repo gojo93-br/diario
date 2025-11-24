@@ -1,10 +1,9 @@
 {
   "name": "Meu Diário Fofo Roxo",
   "short_name": "Diário Roxo",
-  "description": "Um diário pessoal fofo e roxo para guardar suas memórias",
-  "start_url": ".",
+  "start_url": "/",
   "display": "standalone",
-  "background_color": "#faf5ff",
+  "background_color": "#4c1d95",
   "theme_color": "#8b5cf6",
   "orientation": "portrait-primary",
   "icons": [
